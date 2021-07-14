@@ -1,11 +1,9 @@
-< [GMIT Data Analytics](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict) | [Home](https://github.com/SeanOhAileasa) | [README](https://github.com/SeanOhAileasa/fubar-python/blob/main/README.md) >
+< [GMIT Data Analytics](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict) | [GMIT Cybersecurity Operations](https://web.archive.org/web/20210121021711/https://www.gmit.ie/lifelong-learning-mayo/computing/certificate-cybersecurity-operations-spa) | [Home](https://github.com/SeanOhAileasa) | [README](https://github.com/SeanOhAileasa/fubar-python/blob/main/README.md) >
 
-[![GMIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/img/gmit.png?raw=true)](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict)
+[![GMIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/gmit.png?raw=true)](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict)
 
-## GMIT/Work Placement Opportunities - Supplemental Course Material
+## GMIT - Supplemental Course Material
 ### Topic: [Python](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb)
-
-Supplemental material for the ``Higher Diploma in Science in Computing (Data Analytics) (H.Dip)`` programme (75 Credits) at **Galway-Mayo Institute of Technology (GMIT)**. This repository is for self-study/self-examination for future modules of the H.Dip programme and preparation for future workplace opportunities.
 
 ## Learning Outcomes
 
@@ -14,35 +12,6 @@ Supplemental material for the ``Higher Diploma in Science in Computing (Data Ana
 ## Topic Roadmap
 
 - Python
-
-<a id="top"></a>
-## Table of Contents
-
-## [Abstract](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb#abstract)
-<!--
-###### Keywords: -->
-
-## [Introduction](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb#introduction)
-<!--
-###### Keywords: -->
-
-## [Solution](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb#solution)
-<!--
-###### Keywords: -->
-
-## [Conclusion](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb#conclusion)
-<!--
-###### Keywords: -->
-<!--
-## Development
-
-###### Built-in:
-
-###### (A) Standard Library (a_S_tandard_L_ibrary-imports):
-
-###### (B) Third Party Library (b_T_hird_P_arty-imports):
-
-###### (C) Local Application (c_L_ocal_A_pplication-imports): -->
 
 ## Getting Started
 - Keeping in mind: i) GMIT assignment/project submission marking scheme; and ii) impression given to someone who is looking at this repository, endeavour to provide direct evidence of each of the items listed in each category where applicable - ``Research`` - ``Development`` - ``Consistency`` - ``Documentation``:
